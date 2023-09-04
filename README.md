@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ansh Lamba</h1>
 <h4 align="center">Data Analyst with a demonstrated track record in dissecting intricate data sets to illuminate business insights and steer strategic decision-making. Proficient in executing sophisticated data manipulation, conducting comprehensive statistical analysis, and employing advanced data visualization techniques. Adept collaborator known for seamlessly interfacing with cross-functional teams, translating intricate business requisites into actionable solutions, and delivering high-caliber reports and dashboards. Well-versed in the realms of Cloud Data Warehousing, Data Modeling, and ETL processes.</h4>
 
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 - 🔭 I’m currently working as a **Data Analyst**
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/anshlamba03](https://github.com/anshlamba03)
 
-- 💬 Ask me about **Data Analysis, Data Modeling and Warehousing. I will be happy to help.**
+- 💬 Ask me about **Data Analysis, Data Modeling and Warehousing.**
 
 - 📫 How to reach me **anshlamba03@gmail.com**
 
