@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a **Data Analyst**
 
-- 🌱 I’m currently learning **Apache Spark**
+- 🌱 I’m currently advancing my skills in **Data Domain**
 
 - 👨‍💻 Ask me about **Data Analysis, Data Modeling and Warehousing.**
 
