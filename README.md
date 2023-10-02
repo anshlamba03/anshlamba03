@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
-- 🔭 I’m currently working as a **Data Analyst**
+- 🔭 I’m a **Data Analyst**
 
 - 🌱 I’m currently advancing my skills in **Data Domain**
 
