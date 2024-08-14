@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ansh Lamba</h1>
-<h4 align="center">Data Analyst with a demonstrated track record in dissecting intricate data sets to illuminate business insights and steer strategic decision-making. Proficient in executing sophisticated data manipulation, conducting comprehensive statistical analysis, and employing advanced data visualization techniques. Adept collaborator known for seamlessly interfacing with cross-functional teams, translating intricate business requisites into actionable solutions, and delivering high-caliber reports and dashboards. Well-versed in the realms of Cloud Data Warehousing, Data Modeling, and ETL processes.</h4>
+<h4 align="center">Data Engineer with a demonstrated track record in dissecting intricate data sets to illuminate business insights and steer strategic decision-making. Proficient in executing sophisticated data manipulation, conducting comprehensive statistical analysis, and employing advanced data visualization techniques. Adept collaborator known for seamlessly interfacing with cross-functional teams, translating intricate business requisites into actionable solutions, and delivering high-caliber reports and dashboards. Well-versed in the realms of Cloud Data Warehousing, Data Modeling, and ETL processes.</h4>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
-- 🔭 I’m a **Data Analyst**
+- 🔭 I’m a **Data Engineer**
 
 - 🌱 I’m currently advancing my skills in **Data Domain**
 
-- 👨‍💻 Ask me about **Data Analysis, Data Modeling and Warehousing.**
+- 👨‍💻 Ask me about **Azure Data Processing and Warehousing.**
 
 - 📫 How to reach me **anshlamba03@gmail.com**
 
